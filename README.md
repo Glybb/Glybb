@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glybb
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Web Devlopment
 
